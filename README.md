@@ -1,5 +1,5 @@
 # Networking-App
-by Severin Field and Eriq Deng
+by Severin Field and Eriq Deng for CS166 at UCR
 ## Introduction
 In this project, we created a social networking application connected to an SQL database in Java. We used PostgreSQL to run the server and store the data files in csvs once the server stops. The csv files are loaded back into the database when the server is started. 
 
